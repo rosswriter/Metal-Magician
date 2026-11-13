@@ -1,0 +1,5 @@
+/* Metal Magician: a charcoal sidebar with a welding-orange accent. */
+:root { --navy: #26292d; --navy-hover: #33373c; --navy-on: #3d4248; --sel: #fdf0dc; }
+.navb.on { box-shadow: inset 4px 0 0 #f59a0c; }
+button.primary { background: #26292d; border-color: #26292d; }
+.job h4, .welcome h3 { color: #b86e00; }
